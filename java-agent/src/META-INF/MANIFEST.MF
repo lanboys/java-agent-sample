@@ -2,5 +2,6 @@ Manifest-Version: 1.0
 Premain-Class: com.bing.lan.agent.PreMain
 Can-Redefine-Classes: true
 Can-Retransform-Classes: true
+Agent-Class: com.bing.lan.agent.AgentMain
 
 
